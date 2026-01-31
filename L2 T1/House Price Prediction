@@ -1,0 +1,1 @@
+This project predicts house prices using Linear Regression. The California Housing dataset was used to train and test the model. Data preprocessing, feature selection, model training, evaluation, and visualization were performed using Python and Scikit-learn in Google Colab.
